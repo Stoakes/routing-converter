@@ -1,0 +1,4 @@
+services:
+#    stoakes_routing_converter.example:
+#        class: Stoakes\RoutingConverterBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

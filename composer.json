@@ -33,7 +33,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Stoakes\\Bundle\\RoutingConverterBundle\\": ""
+      "Stoakes\\RoutingConverterBundle\\": ""
     },
     "exclude-from-classmap": [
       "/Tests/"
